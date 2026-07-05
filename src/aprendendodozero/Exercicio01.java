@@ -1,6 +1,6 @@
-package aprendendo_do_zero;
+package aprendendodozero;
 
-public class exercicio01 {
+public class Exercicio01 {
     public static void main(String[] args) {
         String nome = "Julio";
         int idade = 21;
